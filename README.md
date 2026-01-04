@@ -1,2 +1,2 @@
 # honganhsnake
-welcome to my world 
+THIS IS MY GAME
